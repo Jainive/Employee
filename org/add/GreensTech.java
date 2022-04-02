@@ -24,7 +24,7 @@ public class GreensTech {
 		GreensTech greensTambaram =new GreensTech();
 		GreensTech greensVelachery = new GreensTech();
 		GreensTech greensAnnanagar=new GreensTech();
-		System.out.println("Conflict occurred");
+		System.out.println("Green Technologies\n");
 		greensOmr.greensOmr();
 		greensAdayar.greensAdayar();
 		greensVelachery.greensVelachery();
